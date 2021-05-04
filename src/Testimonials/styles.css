@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+}
+ 
+.carousel .item {
+  height: 50px;
+}

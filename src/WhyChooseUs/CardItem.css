@@ -1,0 +1,31 @@
+i {
+    color: #6D6D6D;
+    /* color: black; */
+    text-align: center;
+    padding-top: 10px;
+}
+
+h3 { 
+    color: black;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h5 {
+    font-size: 12px;
+    font-weight: 400;
+    color: grey;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.fa-crown:hover, .fa-users:hover, .fa-clock:hover, .fa-layer-group:hover, .fa-comments:hover, .fa-users:hover {
+    color: #01529C;
+    transition: 0.5s ease-out;
+  }
+
+.fa-copy:hover {
+  color: #01529C;
+  transition: 0.5s ease-out;
+}
